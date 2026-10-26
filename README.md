@@ -17,7 +17,7 @@ The labs also teach hill climbing as an engineering discipline. Long-horizon age
 Use Python 3.11 or later.
 
 ```bash
-git clone https://github.com/PacktPublishing/Harness-Engineering-Design-Patterns.git.git
+git clone https://github.com/PacktPublishing/Harness-Engineering-Design-Patterns.git
 cd Harness-Engineering-Design-Patterns
 python -m pip install -e .
 python -m harnesslab.cli list

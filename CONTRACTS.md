@@ -1,6 +1,6 @@
 # Harness-Engineering-Design-Patterns Locked Contracts
 
-Harness-Engineering-Design-Patterns is the companion GitHub project for *Harness Engineering: Design Patterns for Securing Long-Horizon Multi-Agent AI Systems* (https://github.com/PacktPublishing/Harness-Engineering-Design-Patterns.git). The repository is intentionally runnable without cloud credentials or paid model APIs so instructors can use it in classrooms, workshops, and CI environments.
+Harness-Engineering-Design-Patterns is the companion GitHub project for *Harness Engineering: Design Patterns for Securing Long-Horizon Multi-Agent AI Systems* (https://github.com/PacktPublishing/Harness-Engineering-Design-Patterns). The repository is intentionally runnable without cloud credentials or paid model APIs so instructors can use it in classrooms, workshops, and CI environments.
 
 These contracts are locked for chapter implementations:
 

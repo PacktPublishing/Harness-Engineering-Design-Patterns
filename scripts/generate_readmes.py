@@ -98,7 +98,7 @@ def root_readme() -> str:
         "# **Harness-Engineering-Design-Patterns**",
         """
         Harness-Engineering-Design-Patterns is the public companion project for **Harness Engineering: Design Patterns for Securing
-        Long-Horizon Multi-Agent AI Systems** (https://github.com/PacktPublishing/Harness-Engineering-Design-Patterns.git). The book argues that the decisive artifact in production
+        Long-Horizon Multi-Agent AI Systems** (https://github.com/PacktPublishing/Harness-Engineering-Design-Patterns). The book argues that the decisive artifact in production
         agentic AI is not a clever prompt, a single model, or a single guardrail. The decisive artifact is
         the harness: the control plane that mediates what agents may know, remember, decide, delegate,
         execute, observe, resume, and improve. This repository gives instructors and practitioners a
